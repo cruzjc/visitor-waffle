@@ -1,16 +1,3 @@
-// Firebase configuration
-const firebaseConfig = {
-    // You'll need to replace these with your Firebase project details
-    apiKey: "AIzaSyD2qJ9NwQWJKEYQZzedyX_WQwYi1MSeCDQ",
-    authDomain: "cursor-visitor-waffle.firebaseapp.com",
-    databaseURL: "https://cursor-visitor-waffle-default-rtdb.firebaseio.com/",
-    projectId: "cursor-visitor-waffle",
-    storageBucket: "cursor-visitor-waffle.firebasestorage.app",
-    messagingSenderId: "240875455283",
-    appId: "1:240875455283:web:16b4cdcb48896a3c4b3446",
-  measurementId: "G-BD51CTJ0P8"
-};
-
 // Constants
 const DAYS_IN_YEAR = 365;
 const CELLS = DAYS_IN_YEAR;
